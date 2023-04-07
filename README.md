@@ -1,1 +1,1 @@
-# neat_flappybird
+# AI Flappy Bird game using Neat
